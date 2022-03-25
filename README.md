@@ -1,4 +1,14 @@
 # projet-3-realisez-une-etude-de-sante-publique
+
+Compétences évaluées
+•	Appliquer l'algèbre relationnelle en R ou Python
+•	Utiliser les librairies spécialisées pour la Data Science
+•	Effectuer des requêtes complexes en SQL
+•	Maîtriser les bases de R ou Python
+•	Récupérer des données à partir d'une source identifiée
+•	Utiliser une documentation technique
+
+
 Prérequis
 Pour ce projet, il vous faudra savoir manipuler au choix les bases du langage R ou Python, et savoir utiliser dans ces langages des objets de type Dataframes (objets natifs du langage R, et disponibles dans la librairie Pandas de Python. Ce projet vous fera travailler - via les dataframes - les concepts de l'algèbre relationnelle, qu'il est bon de maîtriser. Il vous faudra également maîtriser les bases du langage SQL, notamment les requêtes SQL de type SELECT. Si vous êtes déjà habitués à ce type de requêtes, alors vous connaissez sûrement sans le savoir les concepts d'algèbre relationnelle nécessaires à ce projet. Enfin, il vous faudra savoir installer et requêter (en SQL) un système de gestions de bases de données au choix (des indications sont données dans l'énoncé).
 
