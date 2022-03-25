@@ -1,4 +1,4 @@
-# projet-3-realisez-une-etude-de-sante-publique
+# projet-3-realisez-une-etude-de-sante-publique (100h)
 
 # Compétences évaluées
 #### Appliquer l'algèbre relationnelle en R ou Python
