@@ -1,7 +1,7 @@
 # projet-3-realisez-une-etude-de-sante-publique
 
 # Compétences évaluées
-## Appliquer l'algèbre relationnelle en R ou Python
+#### Appliquer l'algèbre relationnelle en R ou Python
 ### Utiliser les librairies spécialisées pour la Data Science
 ## Effectuer des requêtes complexes en SQL
 ## Maîtriser les bases de R ou Python
